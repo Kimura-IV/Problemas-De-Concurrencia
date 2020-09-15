@@ -1,12 +1,14 @@
 # Problemas-De-Concurrencia
 
 [![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/UserTags)
-[![GitHub](https://img.shields.io/github/followers/hlbv17?label=Helen&style=social)](https://github.com/hlbv17)
 [![GitHub](https://img.shields.io/github/followers/JoeTech-Studio?label=Joe&style=social)](https://github.com/JoeTech-Studio)
+[![GitHub](https://img.shields.io/github/followers/hlbv17?label=Helen&style=social)](https://github.com/hlbv17)
 [![GitHub](https://img.shields.io/github/followers/ropbGitHub?label=Ren%C3%A1n&style=social)](https://github.com/ropbGitHub)
 [![GitHub](https://img.shields.io/github/followers/Joguisa?label=Jonat%C3%A1n&style=social)](https://github.com/Joguisa)
+[![GitHub](https://img.shields.io/github/followers/mburgosr?label=Manuel&style=social)](https://github.com/mburgosr)
 [![Twitter](https://img.shields.io/twitter/follow/helenlbv?style=social)](https://twitter.com/helenlbv)
 [![Twitter](https://img.shields.io/twitter/follow/JoeTech_Studio?style=social)](https://twitter.com/JoeTech_Studio)
+[![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 [![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 
 [![Referencias](https://img.shields.io/badge/Referencias-%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/UserTags)
