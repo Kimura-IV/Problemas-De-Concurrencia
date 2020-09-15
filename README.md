@@ -40,6 +40,11 @@ PROGRAMA 1 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab
 
 PROGRAMA 2 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing)
 
+# ❱ Problemas resueltos
+Filósofos Comensales ![FC](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/filosofosComesales.png)
+Lectore/Escritores  ![LE](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/lector_escritor.gif)
+
+
 # ❱ Librerías
 - time 
 - random
