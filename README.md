@@ -42,12 +42,7 @@ PROGRAMA 2 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab
 
 # ❱ Problemas resueltos
 
-Filósofos Comensales 
-![FC](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/filosofosComesales.png)
-
-Lectores/Escritores  
-![LE](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/lector_escritor.gif)
-
+![FC](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/Problemas-Resueltos.png)
 
 # ❱ Librerías
 - time 
