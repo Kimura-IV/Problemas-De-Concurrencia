@@ -10,7 +10,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/helenlbv?style=social)](https://twitter.com/helenlbv)
 [![Twitter](https://img.shields.io/twitter/follow/JoeTech_Studio?style=social)](https://twitter.com/JoeTech_Studio)
 [![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
-[![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
 [![Referencias](https://img.shields.io/badge/Referencias-Lectores%20y%20Escritores%20%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
