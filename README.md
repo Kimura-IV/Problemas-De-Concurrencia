@@ -48,18 +48,15 @@ PROGRAMA 2 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab
 
 ![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
 
-# ❱ Validaciones.
-Se tomó en cuenta los posbiles errores que se podrías encontrar al momento de realizar este programa, y se diseño las siguiente lista de validaciónes:
- >Validación para usuario:
-  * Validación de ingreso de datos.
- >Validación en código:
-  * Validación de no etiquetas encontradas.
-  * Validación de cantidad de números grandes (ejem. '3k').
-  * Validación de usuario no existente.
+# ❱ Librerías
+- time 
+- random
+- threading
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
 ```
 $ python3 --version
+
 ```
 
