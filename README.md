@@ -23,6 +23,7 @@
 [![WB](https://img.shields.io/badge/Web-Generate%20Word%20Clouds%20In%20Python-blue)](https://www.datacamp.com/community/tutorials/wordcloud-python)
 [![WB](https://img.shields.io/badge/Web-Beautiful%20Soup%20--%20Installation-orange)](https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_installation.htm)
 [![WB](https://img.shields.io/badge/Web-Stack%20OverFlow%20--%20En%20Espa%C3%B1ol-yellow)](https://es.stackoverflow.com/)
+[![WB](https://img.shields.io/badge/Libro-Fundamentos%20de%20sistemas%20operativos-green)](https://books.google.es/books?hl=es&lr=&id=fRK3lbTrNy4C&oi=fnd&pg=PP1&dq=lectores+y+escritores+sistemas+operativos+ejercicio+de+concurrencia&ots=0wziWrD76A&sig=jQ47lE835PgHPn6k9835LOqEIyM#v=onepage&q=lectores%20y%20escritores&f=true)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
 [`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
