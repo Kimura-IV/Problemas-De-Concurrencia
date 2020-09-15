@@ -1,6 +1,7 @@
 # Problemas-De-Concurrencia
 
 [![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
+[![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
 [![GitHub](https://img.shields.io/github/followers/JoeTech-Studio?label=Joe&style=social)](https://github.com/JoeTech-Studio)
 [![GitHub](https://img.shields.io/github/followers/hlbv17?label=Helen&style=social)](https://github.com/hlbv17)
 [![GitHub](https://img.shields.io/github/followers/ropbGitHub?label=Ren%C3%A1n&style=social)](https://github.com/ropbGitHub)
@@ -10,8 +11,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/JoeTech_Studio?style=social)](https://twitter.com/JoeTech_Studio)
 [![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 [![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
-
-[![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
 [![Referencias](https://img.shields.io/badge/Referencias-Lectores%20y%20Escritores%20%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
