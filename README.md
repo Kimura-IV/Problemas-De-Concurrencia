@@ -1,7 +1,8 @@
 # Problemas-De-Concurrencia
 
-[![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
+
+[![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
 [![GitHub](https://img.shields.io/github/followers/JoeTech-Studio?label=Joe&style=social)](https://github.com/JoeTech-Studio)
 [![GitHub](https://img.shields.io/github/followers/hlbv17?label=Helen&style=social)](https://github.com/hlbv17)
 [![GitHub](https://img.shields.io/github/followers/ropbGitHub?label=Ren%C3%A1n&style=social)](https://github.com/ropbGitHub)
