@@ -49,6 +49,4 @@ PROGRAMA 2 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab
 
 ```
 $ python3 --version
-
 ```
-
