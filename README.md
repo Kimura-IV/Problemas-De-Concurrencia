@@ -1,4 +1,5 @@
 ![Logo](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/Logo.png)
+> Version: Programa implementado en el lenguaje Python3 Version-3.8.2.
 
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
 
@@ -32,10 +33,6 @@
 > NOTA: Este proyecto fue inicialmente elaborado en la herramienta de Google Colab, por lo que podrá acceder al entorno al dar click en la palabra de la descripción. Inmediatamente lo redireccionará al link y podrá ejecutar el programa.
 
 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing)
-
-![Logo](https://github.com/JoeTech-Studio/UserTags/blob/master/images/intro.gif)
-
-> Version: Programa implementado en el lenguaje Python3 Version-3.8.2.
 
 # ❱ Menu: Nubes De Palabras.
   Muestra de las formas a elegir, dentro del programa.
