@@ -1,6 +1,6 @@
 # Problemas-De-Concurrencia
 
-[![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/UserTags)
+[![Contributors](https://img.shields.io/badge/Contributors-%3D%3D%3E-brightgreen)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
 [![GitHub](https://img.shields.io/github/followers/JoeTech-Studio?label=Joe&style=social)](https://github.com/JoeTech-Studio)
 [![GitHub](https://img.shields.io/github/followers/hlbv17?label=Helen&style=social)](https://github.com/hlbv17)
 [![GitHub](https://img.shields.io/github/followers/ropbGitHub?label=Ren%C3%A1n&style=social)](https://github.com/ropbGitHub)
@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 [![Twitter](https://img.shields.io/twitter/follow/josue_guillen14?style=social)](https://twitter.com/josue_guillen14)
 
-[![Referencias](https://img.shields.io/badge/Referencias-%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/UserTags)
+[![Referencias](https://img.shields.io/badge/Referencias-Lectores%20y%20Escritores%20%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
 [![WB](https://img.shields.io/badge/Web-Gestion%20Sistemas%20Operativos-yellow)](http://www.redtauros.com/Clases/Gestion_SO/02%20Sistemas%20Operativos%20-%20Administracion%20de%20procesos.pdf)
 [![WB](https://img.shields.io/badge/Libro-Fundamentos%20de%20sistemas%20operativos-green)](https://books.google.es/books?hl=es&lr=&id=fRK3lbTrNy4C&oi=fnd&pg=PP1&dq=lectores+y+escritores+sistemas+operativos+ejercicio+de+concurrencia&ots=0wziWrD76A&sig=jQ47lE835PgHPn6k9835LOqEIyM#v=onepage&q&f=true)
@@ -19,6 +19,8 @@
 [![WB](https://img.shields.io/badge/Web-Stack%20OverFlow%20--%20En%20Espa%C3%B1ol-yellow)](https://stackoverflow.com/questions/16261902/python-any-way-to-get-one-process-to-have-a-write-lock-and-others-to-just-read)
 [![GH](https://img.shields.io/badge/GitHub-ProgramacionParalela-lightgrey)](https://github.com/pilarroma/ProgramacionParalela-Lectores-y-Escritores/blob/master/LectoresYEscritores-PilarRodriguezMartinez.py)
 [![CZ](https://img.shields.io/badge/codezup-Python%20Program-blue)](https://codezup.com/python-program-reader-writer-problem-mutex/)
+
+[![Referencias](https://img.shields.io/badge/Referencias-Filosofos%20Comenzales%20%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
 [![WA](https://img.shields.io/badge/WhatsApp-Escribenos-green)](https://api.whatsapp.com/send?phone=+593986771033&text=&source=&data=&app_absent=)
 
 [`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing) Es un programa de búsquedad de tags de usuarios (ID) de StakOverFlow en español, que pide al usuario que ingrese un ID (número entero). Esta misma hará la búsqueda de dicha ID, comprobando si exite o no para luego mostrar un menú de selección de la forma a presentar la nube de palabras. Finalmete, presentará una nube formada por los tags del usuario buscado con la forma elegida previamente.
