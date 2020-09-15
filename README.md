@@ -40,14 +40,6 @@ PROGRAMA 1 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab
 
 PROGRAMA 2 CLICK AQUÍ PARA INGRESAR A PROGRAMA [`>> UserTags <<`](https://colab.research.google.com/drive/12oISTLGlnEXU2eYRKewxnd3_erQ3M4J6?usp=sharing)
 
-# ❱ Menu: Nubes De Palabras.
-  Muestra de las formas a elegir, dentro del programa.
-  * [Nube](https://i.imgur.com/lT11QG4.png)
-  * [Mario Bros](https://i.imgur.com/28vAIdX.jpg)
-  * [Gato Negro](https://i.imgur.com/2gcl5bA.png)
-
-![Imagen](https://github.com/JoeTech-Studio/UserTags/blob/master/images/Menu%20Nubes%20De%20Palabras.jpeg)
-
 # ❱ Librerías
 - time 
 - random
