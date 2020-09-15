@@ -1,0 +1,47 @@
+Impresion de 2 procesos esperar a que terminen y ver que es lo que nos presenta al final uno diria el resultado final 40 si entra
+20 por un lado y 20 del otro uno espera eso pero cuando estamos usando con multiprocesamiento no es 40 si no menos por que se
+trabaja entre varios procesos y no es algo que que podemos predecir Se puede decir que es ambiguo.
+
+
+// EJERCICIO DE INCREMENTO QUE HABLAMOS SOBRE EJERCICIO: CONTADIR + 1
+
+
+Un ejemplo claro son los idiomas el idioma ingles no tiene ambiguedades casi pero el idioma espanol si que lo tiene al que diga que no esta mintiendo
+una frase o palabra puede ser entendida de diferentes formas dependiendo el pais del que sea y en lenguaje de programacion una manera de desambiguarlo
+que se hace despues pues se lo pasa a un codigo de una manera ya sea las personas que entiendan lenguaje maquina o si no algun otro interprete para asi 
+que la computadora reconozca las instrucciones predefinidas por el autor.
+
+Un ejemplo como proceso seria un Ejercicio de programacion (Es un conjunto de instrucciones) pero mientras que un sistema operativo como tal al tratarse 
+de 2 procesos independientes va a pasar algo interesante va turnandolos es decir que va a interrumpir un proceso siempre y cuando lo vea necesario
+y hay es cuando se va a presentar el problema quiere decir (va a hacer el corte de hay de mas no se garantia de nada) ejemplo se haria una lectura declarada como 0
+se hace el incremento a 1 y se corte el proceso se arranca el segundo proceso se haga la lectura se haga el incremento y se devuelva al primer proceso.
+
+Quiere decir que cuando se ejecute el primer proceso almacenaria 1 y cuando se ejecute el segundo guardaria nuevo 1 y hay estamos viendo que cuando 
+debe contabilizarse 2 se contabilizo 1 por que estamos guardando mediante una copia termporal inconsistente entonces ya estamos viendo los problemas 
+en vez de contar 2 contaria 1 y esto se presente un problema cuando son de mas cantidades como enantes en vez de contabilizar 40 contabilizaria 36 38 etc.
+Y diriamos esto no esta resultando como deberia la unica funcion que se le esta dando la esta haciendo mal.
+
+Eso quiere decir que en al seguir ejecutando procesos este mismo nos dara el resultado final de algo aleatori esto se los conoce como problemas de concurrencia
+por que no podemos garantizar el orden en el que se vayan a ejecutar.
+
+por que no podemos decir primero se van a ejecutar todos los procesos del torniquete 1 y luego todo los del torniquete 2 se van a ir alternando
+podemos tener la suerte de decir que bueno se me ejecuto como yo queria en este caso el resultado de 40 pero al volver a ejecutar no dara lo mismo
+a continuacion veremos un ejemplo claro de como es esto viendolo en codigo como se mezclan los procesos mediante hilo y vemos como se alternan los
+procesos como tal.
+
+Un ejemplo claro sería una aerolínea porque esté en el tema de elección del viaje uno como persona va al al cajero o donde estaría el que nos va a 
+atender y en este caso nosotros No tendríamos un tiempo determinado como para escoger un pasaje esto quiere decir de que no tenemos predefinido el 
+tiempo y esto podría ocasionar el siguiente problema ejemplo si un aerolínea tiene dos pasajes justamente para un vuelo y justamente en esa aerolínea 
+existen tres personas que nos atienden y yo iría a pedir un boleto y me tardo en pensar el día y la hora de vuelo mientras que en el otro lado estarían 
+dos personas pidiendo ese vuelo que pasaría que la aerolínea no tendría un tiempo de respuesta del usuario al elegir un pasaje esto puede ocasionar de 
+que se altere qué cosa que la persona ejemplo yo por tardarme en en elegir el viaje Me quedé sin pasaje y esto es un problema claramente de concurrencia 
+porque no tendríamos un tiempo predefinido en el que el usuario tomaría la acción para ejecutar el ese simple proceso quiere decir de que se está estaría 
+alternando múltiples procesos en esta ocasión lo que se tendría que hacer es automatizar o tener otros método selección esto sería pedir el pasaje mediante 
+una plataforma online y así esta persona pueda tener mucho más tiempo para elegir el pasaje la hora y el día esto es un problema claro de concurrencia ya 
+que no tendríamos un límite de tiempo para el usuario ya que el usuario como tal suele demorar al elegir algo Y esto podría alternar varios procesos es 
+ejemplo que una dicha aerolínea tenga el límite de tiempo de 5 minutos de respuesta como para que se cierre su programa o software o sistema que estén 
+manejando y esta persona demore 6 minutos esto es algo que se podría ver como el ejemplo que había dado sobre el programa y el sistema operativo qué es 
+algo que no se espera y podría variar en el resultado.
+
+
+
