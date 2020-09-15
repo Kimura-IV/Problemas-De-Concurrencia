@@ -1,4 +1,4 @@
-# Problemas-De-Concurrencia
+![Logo](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/Logo.png)
 
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg?logo=python&logoColor=white)](https://docs.python.org/es/3.8/tutorial/index.html)
 
