@@ -33,7 +33,7 @@
 
 > NOTA: Este proyecto fue inicialmente elaborado en la herramienta de Google Colab, por lo que podrá acceder al entorno al dar click en la palabra de la descripción. Inmediatamente lo redireccionará al link y podrá ejecutar el programa.
 
-CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Lectores y Escritores <<`](https://colab.research.google.com/drive/14O_y5dycWoGB5a4avvqQKKT_Z57D_GQ1)
+CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Lectores y Escritores <<`](https://colab.research.google.com/drive/12X_CI4nS6l9FgyMEDvL-4UoiYCgdv5pe?usp=sharing)
 
 CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Filosofos Comensales <<`](https://colab.research.google.com/drive/1nE3EWnw2Ipi7rYBs-POhEQcTOkm2iRen?usp=sharing)
 
