@@ -43,9 +43,9 @@ CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Filosofos Comensales <<`](https://col
 
 # ❱ Librerías:
 
-- threading. Permite ejecutar diferentes partes de un programa simultáneamente y puede simplificar su diseño.
-- random.
-- time. 
+- threading - [Permite ejecutar diferentes partes de un programa simultáneamente y puede simplificar su diseño]
+- random - []
+- time - []
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
