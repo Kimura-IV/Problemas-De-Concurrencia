@@ -24,8 +24,8 @@
 
 [![Referencias](https://img.shields.io/badge/Referencias-Filosofos%20Comenzales%20%3D%3D%3E-blue)](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/)
 [![WB](https://img.shields.io/badge/Web-Codigo%20filosofo-yellowgreen)](http://sistop.org/codigo/filosofos_v1_py.html)
-[![WB](https://img.shields.io/badge/Web-PYTHON%20IMPLEMENTATION%20OF%20DINING--PHILOSPHERS%20SOLUTION%20USING%20SEMAPHORE-yellow)](https://cppsecrets.com/users/120612197115104981111171149751485164103109971051084699111109/Python-Implementation-of-Dining-Philosphers-Solution-using-Semaphore.php#:~:text=Python%20Implementation%20of%20Dining%2DPhilosphers%20Solution%20using%20Semaphore,-Article%20Creation%20Date&text=Description%3A%20Five%20philosophers%2C%20spend%20their%20time%20thinking%20and%20eating%20spaghetti.&text=When%20a%20philosopher%20cannot%20grab,and%20leaves%20the%20dining%20room)
 [![GH](https://img.shields.io/badge/GitHub-Added%20custom%20semaphore-lightgrey)](https://github.com/djunderw/dining-philosophers/commit/2932041b8bfca9a7a5d9cfa936593da3bfc5993c#diff-03143e2bfe6943b49a90175f22a1f551L73)
+[![WB](https://img.shields.io/badge/Web-PYTHON%20IMPLEMENTATION%20OF%20DINING--PHILOSPHERS%20SOLUTION%20USING%20SEMAPHORE-yellow)](https://cppsecrets.com/users/120612197115104981111171149751485164103109971051084699111109/Python-Implementation-of-Dining-Philosphers-Solution-using-Semaphore.php#:~:text=Python%20Implementation%20of%20Dining%2DPhilosphers%20Solution%20using%20Semaphore,-Article%20Creation%20Date&text=Description%3A%20Five%20philosophers%2C%20spend%20their%20time%20thinking%20and%20eating%20spaghetti.&text=When%20a%20philosopher%20cannot%20grab,and%20leaves%20the%20dining%20room)
 [![GH](https://img.shields.io/badge/GitHub-so__filosofos-lightgrey)](https://github.com/Diexito/so_filosofos/blob/master/filosofos_beta.py)
 
 
