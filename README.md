@@ -44,8 +44,8 @@ CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Filosofos Comensales <<`](https://col
 # ❱ Librerías:
 
 - threading - [Permite ejecutar diferentes partes de un programa simultáneamente y puede simplificar su diseño]
-- random - []
-- time - []
+- random - [Contiene una serie de funciones relacionadas con los valores aleatorios]
+- time - [Proporciona un conjunto de funciones para trabajar con fechas y/o horas (en este caso segundos)]
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
