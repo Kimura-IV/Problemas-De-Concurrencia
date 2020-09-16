@@ -43,9 +43,9 @@ CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Filosofos Comensales <<`](https://col
 ![FC](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/Problemas-Resueltos.png)
 
 # ❱ Librerías
-- time 
-- random
-- threading
+- time. 
+- random.
+- threading.
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
