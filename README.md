@@ -42,9 +42,10 @@ CLICK AQUÍ PARA INGRESAR AL PROGRAMA [`>> Filosofos Comensales <<`](https://col
 ![FC](https://github.com/JoeTech-Studio/Problemas-De-Concurrencia/blob/master/images/Problemas-Resueltos.png)
 
 # ❱ Librerías
-- time. 
+
+- threading. Permite ejecutar diferentes partes de un programa simultáneamente y puede simplificar su diseño.
 - random.
-- threading.
+- time.
 
 # ❱ Comando Para Comprobar La Version De Python3.
 
